@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Hanif Bajri
 
 I'm a first-year university student with an interest in Information Technology. This repository marks the beginning of my learning journey in the field.
